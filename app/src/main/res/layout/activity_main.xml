@@ -151,6 +151,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:textColor="@color/black"
                     android:text="@string/Alamat_val"
                     android:textSize="@dimen/size12"
                     android:fontFamily="sans-serif-condensed-light"/>
@@ -183,6 +184,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:textColor="@color/black"
                     android:text="@string/TTL_val"
                     android:textSize="@dimen/size12"
                     android:fontFamily="sans-serif-condensed-light"/>
@@ -215,6 +217,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:textColor="@color/black"
                     android:text="@string/jk_val"
                     android:textSize="@dimen/size12"
                     android:fontFamily="sans-serif-condensed-light"/>
@@ -247,6 +250,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:textColor="@color/black"
                     android:text="@string/Goldar_val"
                     android:textSize="@dimen/size12"
                     android:fontFamily="sans-serif-condensed-light"/>
@@ -279,6 +283,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:textColor="@color/black"
                     android:text="@string/MaK_val"
                     android:textSize="@dimen/size12"
                     android:fontFamily="sans-serif-condensed-light"/>
@@ -311,6 +316,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:textColor="@color/black"
                     android:text="@string/MiK_val"
                     android:textSize="@dimen/size12"
                     android:fontFamily="sans-serif-condensed-light"/>
@@ -343,6 +349,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:textColor="@color/black"
                     android:text="@string/hobi_val"
                     android:textSize="@dimen/size12"
                     android:fontFamily="sans-serif-condensed-light"/>
@@ -375,6 +382,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:textColor="@color/black"
                     android:text="@string/Lagufav_val"
                     android:textSize="@dimen/size12"
                     android:fontFamily="sans-serif-condensed-light"/>
@@ -407,6 +415,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:textColor="@color/black"
                     android:text="@string/Filmfav_val"
                     android:textSize="@dimen/size12"
                     android:fontFamily="sans-serif-condensed-light"/>
@@ -440,6 +449,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:textColor="@color/black"
                     android:text="@string/Pekerjaan_val"
                     android:textSize="@dimen/size12"
                     android:fontFamily="sans-serif-condensed-light"/>
